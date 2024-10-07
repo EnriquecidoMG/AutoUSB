@@ -2,21 +2,21 @@
 ## What does?
 The application we created is designed to facilitate the creation of an autorun.inf file on USB drives. Here’s a summary of its features and functionalities:
 
-- **Main Functions:**
-USB Drive Selection: Allows users to select a connected USB drive, ensuring that the main disk where the operating system is installed is not chosen.
+**_Main Functions:_**
+ - **USB Drive Selection:** Allows users to select a connected USB drive, ensuring that the main disk where the operating system is installed is not chosen.
 
-* **Autorun Customization:**
+ * **Autorun Customization:**
 
-  * Drive Name: Users can set a new name for the USB drive.
-  * Custom Icon: Users can select a .ico file that will be copied to the drive and used as its icon.
-  * Automatic Startup File: Users can select an executable file, an image, or a video that will run automatically when the USB drive is inserted.
-  * Autorun File Generation: The application creates an autorun.inf file that contains the necessary configuration to personalize the user experience when inserting the USB drive.
+   * Drive Name: Users can set a new name for the USB drive.
+   * Custom Icon: Users can select a .ico file that will be copied to the drive and used as its icon.
+   * Automatic Startup File: Users can select an executable file, an image, or a video that will run automatically when the USB drive is inserted.
+   * Autorun File Generation: The application creates an autorun.inf file that contains the necessary configuration to personalize the user experience when inserting the USB drive.
 
-- **File Copying:** Both the icon and the startup file are automatically copied to the USB drive, ensuring they are available on other computers.
+ - **File Copying:** Both the icon and the startup file are automatically copied to the USB drive, ensuring they are available on other computers.
 
-- **Intuitive Interface:** The application features a simple and user-friendly graphical interface built with Tkinter, allowing users to perform all configurations with ease.
+ - **Intuitive Interface:** The application features a simple and user-friendly graphical interface built with Tkinter, allowing users to perform all configurations with ease.
 
-- **Help and Support:** It includes a help button that provides instructions on how to use the application, as well as a link to a GitHub repository for further information or support.
+ - **Help and Support:** It includes a help button that provides instructions on how to use the application, as well as a link to a GitHub repository for further information or support.
 
 ### Purpose:
 The goal of the application is to simplify the process of configuring USB drives, enabling users to customize them and automate tasks. This is particularly useful in educational settings, presentations, or for sharing software and multimedia in a more engaging way.
