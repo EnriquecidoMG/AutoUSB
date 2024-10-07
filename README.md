@@ -1,6 +1,6 @@
 # <p align="center"> ![AutoUSB Git](https://github.com/user-attachments/assets/fd4f3923-cb04-4c6e-82c2-534f1fbc9cd0) </p>
 ## What does?
-The application we created is designed to facilitate the creation of an autorun.inf file on USB drives. Here’s a summary of its features and functionalities:
+The application i created is designed to facilitate the creation of an autorun.inf file on USB drives. Here’s a summary of its features and functionalities:
 
 **_Main Functions:_**
  - **USB Drive Selection:** Allows users to select a connected USB drive, ensuring that the main disk where the operating system is installed is not chosen.
